@@ -23,7 +23,7 @@
         }
     },
     "require": {
-        "silber/bouncer": "v1.0.0-rc.8",
+        "silber/bouncer": "^1.0.0-rc.5",
         "illuminate/support": "5.5 - 5.8"
     },
     "extra": {
